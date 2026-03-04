@@ -5,9 +5,9 @@
 ---
 
 <div align="center">
-  <img height="160" src="./profile-summary-cards-output/3-stats.svg" />
-  <img height="160" src="./profile-summary-cards-output/1-repos-per-language.svg" />
-  <img height="160" src="./profile-summary-cards-output/2-most-commit-language.svg" />
+  <img height="160" src="./profile-summary-card-output/default/3-stats.svg" />
+  <img height="160" src="./profile-summary-card-output/default/1-repos-per-language.svg" />
+  <img height="160" src="./profile-summary-card-output/default/2-most-commit-language.svg" />
 </div>
 
 <div align="center">
@@ -15,6 +15,6 @@
 </div>
 
 <div align="center">
-  <img height="180" src="./profile-summary-cards-output/4-productive-time.svg" />
-  <img height="180" src="./profile-summary-cards-output/0-profile-details.svg" />
+  <img height="180" src="./profile-summary-card-output/default/4-productive-time.svg" />
+  <img height="180" src="./profile-summary-card-output/default/0-profile-details.svg" />
 </div>
